@@ -1,0 +1,90 @@
+BasicInfo:
+  FirstName: Kabiru Maitama
+  LastName: Kura
+  Photo: img/avatar.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +44 123 456 789
+    - Icon: fas fa-envelope
+      Info: contact@kmkura.com
+    - Icon: fas fa-globe
+      Info: kmkura.com
+    - Icon: fas fa-map-marker-alt
+      Info: Nigeria
+
+Profile: Kabiru Maitama Kura is an Assistant Professor of HRM & Organisational Behaviour at the UTB School of Business, Universiti Teknologi Brunei. His research interests focus workplace deviance, organisational citizenship behaviour, job attitudes, personality and individual differences, green behaviour at work, and leadership. Prior to joining UTB School of Business, he was a Senior Lecturer/Director School of Remedial and Basic Studies, at the Federal Polytechnic Kaura Namoda, Nigeria.
+
+Experience:
+  - Employer: Universiti Teknologi Brunei
+    Place: Brunei Darussalam
+    Positions:
+      - Title: Assistant Professor 
+        Date: June 2018 - Present
+        Details:
+          - Teaching
+          - Research
+          - Supervision
+          - Administration
+        Badges: ['PLS-SEM', 'SPSS', 'Meta Analysis', 'R']
+      - Title: Research Coordinator
+        Date: June 2019 - - Present
+        Details:
+          - Coordinating and maintenance of efficient systems and processes to support the functions of Research Thrusts and Research Centres
+          - Working with the Assistant Vice-Chancellor (Research), Dean of Graduate & Research (GSR) Office and University Research Committee to ensure that all projects are delivered on time and within
+          - Assisting the Principal Investigators in research governance processes, project and financial management.
+          - Arrange/organise University Research Committee's meetings as required.
+       Badges: ['Research Grants', 'Research Coordination']
+  
+Education:
+  - Course: PhD in Human Resource Management
+    Place: University of Lisbon
+    Date: Sep 2011 - Nov 2014
+    Details: Human Resource Management & Organisational Behaviour
+  - Course: MSc in Business Administration
+    Place: Ahmadu Bello University Zaria, Nigeria
+    Date: Sep 2007 - Nov 2012
+    Details: Human Resource Management
+  - Course: Master of Business Administration (MBA)
+    Place: Ahmadu Bello University Zaria, Nigeria
+    Date: Sep 2004 - Nov 2005
+    Details: BSc in Business Administration
+    Place: Bayero University Kano, Nigeria
+    Date: Sep 1993 - Nov 1997
+    Details: General Management
+
+Research nterests:
+  - Workplace deviance
+  - Organisational citizenship behaviour
+  - Green behaviour at work
+
+Skills:
+  - Family: Statistical Analyses
+    Items:
+      - PLS-SEM
+      - SPSS
+      - Meta Analysis
+      - R
+  - Family: Web Development Tools
+    Items:
+      - Github
+      - Hugo
+      - Netlify
+      - Forestry
+      - CSS
+      - SQL
+      - PHP
+ - Family: Misc
+    Items:
+      - EndNote
+      - Mendeley
+      - CorelDRAW Graphics
+
+Languages:
+  - Name: Hausa
+    Level: Native
+  - Name: English
+    Level: C2
+  - Name: Arabic
+    Level: A1
+  - Name: Bahasa Melayu 
+    Level: A1
