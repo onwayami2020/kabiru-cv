@@ -5,11 +5,11 @@ name = "Kabiru Maitama Kura CV"
 license = "MIT"
 licenselink = "https://github.com/ineesalmeida/almeida-cv/master/LICENSE"
 description = "Theme to build a customizeable printable CV with minor web responsiveness."
-homepage = "https://kabiru-cv.netlify.app/"
+homepage = "https://onwayami2020.github.io/kabiru-cv/"
 tags = ["cv", "resume", "minimal", "simple"]
 features = ["simple", "cv", "printable"]
 min_version = "0.41.0"
 
 [author]
   name = "Kabiru Maitama Kura"
-  homepage = "kmkura.com"
+  homepage = "https://onwayami2020.github.io/kabiru-cv/"
